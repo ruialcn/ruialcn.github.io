@@ -12,6 +12,11 @@ comments: false
 ----
 
 <center>
+<h3>2022</h3>
+<small>
+<a href="2022/1220-shanghai" style="color:rgb(0,0,255)">Shanghai</a><br>
+</small>
+
 <h3>2021</h3>
 <small>
 <a href="2021/0413-shanghai" style="color:rgb(0,0,255)">Shanghai</a><br>
